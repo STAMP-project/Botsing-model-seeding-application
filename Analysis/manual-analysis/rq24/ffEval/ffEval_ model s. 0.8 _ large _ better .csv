@@ -1,0 +1,4 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","MOCKITO-10b",2,"model s. 0.8","no s.","large",0.133333333333333,1.70056012052756e-08,"< 0.5"
+"2","XWIKI-13141",1,"model s. 0.8","no s.","large",0.0222222222222222,4.87723195723962e-12,"< 0.5"
+"3","XWIKI-14152",5,"model s. 0.8","no s.","large",0.251111111111111,8.14401774092871e-05,"< 0.5"

@@ -1,0 +1,6 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","MATH-95b",4,"test s. 0.8","no s.","medium",0.716666666666667,0.0010398351539858,"> 0.5"
+"2","TIME-20b",1,"test s. 0.8","no s.","medium",0.716666666666667,5.59340410971986e-05,"> 0.5"
+"3","TIME-7b",5,"test s. 0.8","no s.","medium",0.670555555555556,0.0217313130926048,"> 0.5"
+"4","TIME-8b",1,"test s. 0.8","no s.","medium",0.683333333333333,0.000302355103871411,"> 0.5"
+"5","XWIKI-12667",3,"test s. 0.8","no s.","medium",0.716666666666667,0.00278567825499553,"> 0.5"

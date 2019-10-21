@@ -1,0 +1,4 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","LANG-45b",1,"test s. 1.0","no s.","medium",0.683333333333333,0.00028526522806495,"> 0.5"
+"2","LANG-51b",1,"test s. 1.0","no s.","medium",0.696111111111111,0.00365654390595692,"> 0.5"
+"3","MATH-95b",4,"test s. 1.0","no s.","medium",0.712222222222222,0.00140147801667563,"> 0.5"

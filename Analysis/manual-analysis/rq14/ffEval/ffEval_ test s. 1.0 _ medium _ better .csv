@@ -1,0 +1,5 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","LANG-6b",3,"test s. 1.0","no s.","medium",0.283333333333333,6.52677819535069e-05,"< 0.5"
+"2","MATH-40b",5,"test s. 1.0","no s.","medium",0.266111111111111,0.0018733140811605,"< 0.5"
+"3","MATH-84b",2,"test s. 1.0","no s.","medium",0.315555555555556,0.00801649380086513,"< 0.5"
+"4","MOCKITO-16b",4,"test s. 1.0","no s.","medium",0.315,0.0056251526658155,"< 0.5"

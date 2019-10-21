@@ -1,0 +1,3 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","LANG-6b",3,"test s. 0.5","no s.","small",0.4,0.0110268630856998,"< 0.5"
+"2","TIME-5b",3,"test s. 0.5","no s.","small",0.345,0.0172963324627164,"< 0.5"

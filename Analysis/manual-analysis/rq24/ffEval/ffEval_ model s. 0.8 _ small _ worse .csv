@@ -1,0 +1,4 @@
+"","case","frame_level","configuration.conf1","configuration.conf2","VD.magnitude","VD.estimate","wilcox.test.pvalue","VD.estimate.category"
+"1","LANG-51b",1,"model s. 0.8","no s.","small",0.642222222222222,0.0389731002422859,"> 0.5"
+"2","XWIKI-12667",6,"model s. 0.8","no s.","small",0.633333333333333,0.00278583440379359,"> 0.5"
+"3","XWIKI-13546",6,"model s. 0.8","no s.","small",0.583333333333333,0.021419179389329,"> 0.5"
