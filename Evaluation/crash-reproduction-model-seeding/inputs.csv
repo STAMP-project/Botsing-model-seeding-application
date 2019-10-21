@@ -1,0 +1,1 @@
+execution_idx,application,case,version,classpath,package,stacktrace_path,fixed,fixed_version,buggy_frame,p_functional_mocking,functional_mocking_percent,p_reflection_on_private,reflection_start_percent,search_budget,population,p_object_pool,p_model_pool_target_init,p_model_pool_non_target_init,seed_clone,seed_mutations,test_dir
