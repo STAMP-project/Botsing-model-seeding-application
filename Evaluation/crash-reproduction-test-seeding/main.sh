@@ -2,8 +2,7 @@ INPUT=inputs.csv
 OLDIFS=$IFS
 IFS=,
 [ ! -f $INPUT ] && { echo "$INPUT file not found"; }
-
-LIMIT=40
+LIMIT=50
 
 job_list=()
 min_prob="0.2"

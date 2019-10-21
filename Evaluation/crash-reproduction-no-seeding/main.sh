@@ -2,7 +2,7 @@ INPUT=inputs.csv
 OLDIFS=$IFS
 IFS=,
 [ ! -f $INPUT ] && { echo "$INPUT file not found"; }
-LIMIT=75
+LIMIT=50
 job_list=()
 
 counter=0
