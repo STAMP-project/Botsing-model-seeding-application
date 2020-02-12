@@ -1,5 +1,5 @@
 # Botsing-model-seeding-application
-This repository contains the replication package for the Botsing model-seeding, test-seeding, and no-seeding evaluation on the 124 crashes from JCrashPack.
+This repository contains the replication package for the Botsing model-seeding, test-seeding, and no-seeding evaluation on the 122 crashes from JCrashPack.
 
 This Evaluation contains 3 phases: 1) model generation, 2) Botsing execution (no-seiding, test-seeding, and model-seeding), and 3) analysis (manual and statistical). In this README, we will explain how you can repicate each of these steps.
 
